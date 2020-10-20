@@ -1,0 +1,1 @@
+My simply footer example.
